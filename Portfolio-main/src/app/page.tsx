@@ -8,7 +8,7 @@ import FramerWrapper from "@/components/animation/FramerWrapper";
 
 export default function Home() {
   return (
-    <
+    <>
       {/* LEFT SIDE  */}
       <FramerWrapper
         className=" h-full w-auto flex flex-col justify-start gap-4"
