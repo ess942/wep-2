@@ -20,7 +20,7 @@ export const portfolioConfig = {
   // SEO Information
   seo: {
     ogImage: "/og-image.png",
-    url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://your-portfolio-domain.vercel.app",
+    url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://wep-2.vercel.app/",
     twitterHandle: "@ess942",
     keywords: [
       "eslam",
